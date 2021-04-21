@@ -1,4 +1,4 @@
-This repository contains Aspose.Slides Product Family documentation.
+This repository contains documentation for Aspose.Slides Product Family.
 
 [Aspose.Slides for .NET Documentation](net)
 
